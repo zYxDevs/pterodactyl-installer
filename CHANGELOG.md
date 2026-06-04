@@ -10,7 +10,8 @@ This project follows the [semantic versioning](https://semver.org) convention. C
 
 ### Added
 
-- [70083ab](https://github.com/pterodactyl-installer/pterodactyl-installer/commit/70083abbb8c854df99939f7a54ef738b39cfe12e) panel: add ubuntu 26.04 support 
+- [70083ab](https://github.com/pterodactyl-installer/pterodactyl-installer/commit/70083abbb8c854df99939f7a54ef738b39cfe12e) panel: add ubuntu 26.04 support
+- [54db4ce](https://github.com/pterodactyl-installer/pterodactyl-installer/commit/54db4cea783e7e45d97c16a3299c6e6e315a50a6) panel: add telemetry option
 
 ## v1.2.0 (released on 2025-09-24)
 
